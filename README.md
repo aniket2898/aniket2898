@@ -7,7 +7,7 @@
 - 🌱 2021 Goals - To launch my first wbsite.
 - 💬 Ask me about Web Development, Computer Vision, Sofware Develpoment and Machine Learning.
 - 📫 How to reach me: [LinkedIn/anixshinde](https://www.linkedin.com/in/anixshinde/)
-- ⚡ Fun fact: I am an Mobile Game Player.
+- ⚡ Fun fact: I am a Mobile Game Player.
 
 
 ### Show some ❤️ by starring some of the repositories!
